@@ -1,4 +1,4 @@
-let myGrade = 95;
+let myGrade = 85;
 if (myGrade <= 99 && myGrade >= 90 ) {
     console.log("A");
 } if(myGrade <= 89 && myGrade >= 80) {
